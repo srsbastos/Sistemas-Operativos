@@ -1,0 +1,56 @@
+=== FCFS ===
+
+--- Estatísticas ---
+Processos simulados: 83
+Tempo médio de espera: 391.06
+Tempo médio de resposta: 391.06
+Utilização da CPU: 100.00%
+Throughput: 83 processos
+
+=== SJF ===
+
+--- Estatísticas ---
+Processos simulados: 83
+Tempo médio de espera: 312.35
+Tempo médio de resposta: 312.35
+Utilização da CPU: 100.00%
+Throughput: 83 processos
+
+=== PRIORITY ===
+
+--- Estatísticas ---
+Processos simulados: 83
+Tempo médio de espera: 374.39
+Tempo médio de resposta: 374.39
+Utilização da CPU: 100.00%
+Throughput: 83 processos
+
+=== PRIORITYP ===
+
+--- Estatísticas ---
+Processos simulados: 83
+Tempo médio de espera: 377.98
+Tempo médio de resposta: 377.51
+Utilização da CPU: 100.00%
+Throughput: 83 processos
+
+=== RR ===
+
+=== EDF ===
+
+--- Estatísticas ---
+Processos simulados: 83
+Tempo médio de espera: 361.89
+Tempo médio de resposta: 361.89
+Utilização da CPU: 100.00%
+Throughput: 83 processos
+
+=== RM ===
+
+--- Estatísticas ---
+Processos simulados: 83
+Tempo médio de espera: 374.96
+Tempo médio de resposta: 374.96
+Utilização da CPU: 100.00%
+Throughput: 83 processos
+
